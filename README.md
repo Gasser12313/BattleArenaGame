@@ -38,40 +38,6 @@
 - Victory and defeat fanfares
 - Menu navigation sounds
 
-## 🚀 Quick Start
-
-### Method 1: Using IDE (Recommended)
-```bash
-git clone https://github.com/yourusername/BattleArena.git
-cd BattleArena
-```
-1. Open in IntelliJ/Eclipse
-2. Set VM Options: `--module-path "path/to/javafx-sdk/lib" --add-modules javafx.controls,javafx.media`
-3. Run `application.Main`
-
-### Method 2: Command Line (Maven)
-```bash
-# Clone and compile
-git clone https://github.com/yourusername/BattleArena.git
-cd BattleArena
-mvn clean compile
-
-# Run game (update JavaFX path)
-java --module-path "/path/to/javafx-sdk/lib" \
-     --add-modules javafx.controls,javafx.media \
-     -cp "target/classes:src/main/resources" \
-     application.Main
-```
-
-### Method 3: Using Scripts
-```bash
-# Windows
-run.bat
-
-# Linux/Mac
-chmod +x run.sh
-./run.sh
-```
 
 ## 🎮 Controls
 
