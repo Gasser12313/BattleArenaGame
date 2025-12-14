@@ -1,11 +1,9 @@
-```markdown
-# 🎮 Battle Arena
-
+🎮 BATTLE ARENA
 <div align="center">
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaFX](https://img.shields.io/badge/JavaFX-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)
+
 
 **A 2D Local Multiplayer Fighting Game**
 
